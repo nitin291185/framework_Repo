@@ -18,6 +18,9 @@ public class createOrgTest {
 	
 	
 	}
-	
-	
+
+	@Test
+	public void deleteOrgTest() {
+		System.out.println("delete Org test");
+	}
 }
