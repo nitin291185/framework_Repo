@@ -21,7 +21,15 @@ public class contactTest {
 @Test
 public void modifyContactTest() {
 	System.out.println("Modify contact test");
+	String URL=System.getProperty("browser","chrome");
+	String BROWSER = System.getProperty("username");
+	String USERNAME= System.getProperty("username");
+	String PASSWORD = System.getProperty("password");
 	
+	System.out.println(URL);
+	System.out.println(BROWSER);
+	System.out.println(USERNAME);
+	System.out.println(PASSWORD);
 	
 }
 
