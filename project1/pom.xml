@@ -85,7 +85,7 @@
                 <version>3.2.3</version> <!-- Use the latest stable version -->
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testngSuit_regressionTest.xml</suiteXmlFile>
+                        <suiteXmlFile>/project1/testng_RT.xml</suiteXmlFile>
                         <!-- Add more <suiteXmlFile> tags for additional TestNG XML files -->
                     </suiteXmlFiles>
                 </configuration>
@@ -104,7 +104,7 @@
                 <version>3.2.3</version> <!-- Use the latest stable version -->
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testngSuite_smoke.xml</suiteXmlFile>
+                        <suiteXmlFile>testng_ST.xml</suiteXmlFile>
                         <!-- Add more <suiteXmlFile> tags for additional TestNG XML files -->
                     </suiteXmlFiles>
                 </configuration>
