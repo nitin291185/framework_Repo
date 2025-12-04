@@ -85,7 +85,7 @@
                 <version>3.2.3</version> <!-- Use the latest stable version -->
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>/project1/testng_RT.xml</suiteXmlFile>
+                        <suiteXmlFile>testng_RT.xml</suiteXmlFile>
                         <!-- Add more <suiteXmlFile> tags for additional TestNG XML files -->
                     </suiteXmlFiles>
                 </configuration>
